@@ -13,7 +13,22 @@ The VRUD dataset includes:
 - Format: Oriented Bounding Boxes (OBB) and trajectories in CSV format.
 - Use Cases: Mixed traffic monitoring, urban traffic safety analysis, intelligent transportation systems.
 
-**Download Dataset**: [VRUD Dataset](#)
+
+![WechatIMG951](https://github.com/user-attachments/assets/6843eedb-be99-4ce5-8455-05d99b1e0794)
+Fig.1 BEV of intersection
+
+
+## Data Access
+To access the VRUD Dataset:
+1. **Complete the Data Request Form**: All users must fill out a Google Form to request access. The form requires agreement to the dataset usage terms and conditions.
+   - **[Fill Out the Form Here](#)** (Replace with the actual link)
+2. **Data Usage Agreement**: By submitting the form, you agree to:
+   - Use the dataset for academic and non-commercial research purposes only.
+   - Cite the dataset and associated publications in your work.
+   - Not redistribute the dataset without explicit permission from the authors.
+
+3. **Review Process**: Your request will be reviewed within 7 business days. Upon approval, you will receive access details via email.
+
 
 ## Code Overview
 The repository includes:
