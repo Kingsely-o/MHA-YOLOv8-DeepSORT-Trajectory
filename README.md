@@ -22,7 +22,6 @@ Fig.1 BEV of intersection
 ## Data Access
 To access the VRUD Dataset:
 1. **Complete the Data Request Form**: All users must fill out a Google Form to request access. The form requires agreement to the dataset usage terms and conditions.
-   - **[https://docs.google.com/forms/d/e/1FAIpQLScImfM2kJ-ZOTu6rJeP0uUXdVNYkbDUp6KCVoN6Y0gMYAjUsA/viewform?usp=header](#)
    - **[Fill Out the Form Here](https://docs.google.com/forms/d/e/1FAIpQLScImfM2kJ-ZOTu6rJeP0uUXdVNYkbDUp6KCVoN6Y0gMYAjUsA/viewform?usp=header)**
 2. **Data Usage Agreement**: By submitting the form, you agree to:
    - Use the dataset for academic and non-commercial research purposes only.
