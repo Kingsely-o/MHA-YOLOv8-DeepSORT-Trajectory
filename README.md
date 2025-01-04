@@ -15,7 +15,7 @@ The VRUD dataset includes:
 
 
 
-![Fig1]([https://github.com/user-attachments/assets/6843eedb-be99-4ce5-8455-05d99b1e0794](https://github.com/Kingsely-o/MHA-YOLOv8-DeepSORT-Trajectory/blob/main/Fig.1.jpg))
+![Fig1](https://github.com/Kingsely-o/MHA-YOLOv8-DeepSORT-Trajectory/blob/main/Fig.1.jpg)
 Fig.1 BEV of intersection
 
 
