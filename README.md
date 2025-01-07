@@ -44,10 +44,7 @@ The repository includes:
    - Tracking accuracy (MOTA).
 
 ## Requirements
-- Python >= 3.9
-- PyTorch >= 2.0.1
-- OpenCV >= 4.5
-- CUDA >= 11.8
+Follow the Requirement.txt
 
 ## Installation
 1. Clone this repository:
